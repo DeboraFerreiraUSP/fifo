@@ -62,4 +62,3 @@ K_THREAD_DEFINE(writing2_id, STACKSIZE, writing2, NULL, NULL, NULL,
     PRIORITY, 0, 0);
 K_THREAD_DEFINE(reading_id, STACKSIZE, reading, NULL, NULL, NULL,
     PRIORITY, 0, 0);
-s
